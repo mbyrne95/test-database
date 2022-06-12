@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Champion Application"
+    "\\Champion Application",
+    "\\Champion Core"
   ],
-  "SelectedNode": "\\Champion Application\\IChampionDatabase.cs",
+  "SelectedNode": "\\ConsoleApp1.sln",
   "PreviewInSolutionExplorer": false
 }
